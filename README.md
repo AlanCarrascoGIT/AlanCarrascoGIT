@@ -51,7 +51,7 @@ Escribir aca.
 </span>
 
 ## <b>Github Stats</b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AlanCarrascoGIT&theme=tokyonight&show_icons=true/460/300" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanCarrascoGIT&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
+<div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AlanCarrascoGIT&theme=tokyonight&show_icons=true/460/300"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanCarrascoGIT&show_icons=true&locale=en&layout=compact&theme=tokyonight"/> 
+      </div>
