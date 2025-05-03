@@ -50,7 +50,7 @@ Escribir aca.
 
 </span>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+## <b>Github Stats</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AlanCarrascoGIT&theme=tokyonight&show_icons=true/460/300" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanCarrascoGIT&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
