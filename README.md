@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, soy Alan Carrasco! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;***Sobre mi***
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="30px">&nbsp;***Sobre mi***
 
  <!-- Profile views -->
  <img src="https://64.media.tumblr.com/4ace9cb9b80a8e216d684acd8767f696/tumblr_pgk62qVLSf1tizxmzo1_1280.gif" align="right" height="300">
