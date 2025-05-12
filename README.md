@@ -7,7 +7,9 @@
  <img src="https://64.media.tumblr.com/4ace9cb9b80a8e216d684acd8767f696/tumblr_pgk62qVLSf1tizxmzo1_1280.gif" align="right" height="300">
  
  <p align="left">
-Escribir aca.
+Estudiante de Ingeniería en Computación y actualmente estoy en 2do año de la carrera. Estoy ampliando mis conocimientos en desarrollo back-end. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
+
+
    
 </p>
 
