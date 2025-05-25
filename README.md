@@ -8,24 +8,22 @@
  
  <p align="left">
 Estudiante de Ingeniería en Computación y actualmente estoy en 2do año de la carrera. Estoy ampliando mis conocimientos en desarrollo back-end. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
+En mis repositorios pueden encontrar proyectos/prácticas desarrollados en C, que incluyen el uso de sockets, conexión a bases de datos SQL, y minijuegos básicos.
 
 
    
 </p>
 
-- 🌱 
+- 🌱 Actualmente estoy aprendiendo:
+    - Go
 
-- 👯 
+- 👨‍💻 Fuera del mundo de la tecnologia, me encanta jugar videojuegos, escuchar música y seguir aprendiendo
 
-- 👨‍💻 
+- 🥊 Practico boxeo y voy al gimnasio
 
-- 📝 
+- ✔ Estoy disponible en cualquier momento, preguntame lo que quieras
 
-- 👀 
-
-- 📫 carrascoalan53@gmail.com
-
-- ⚡ 
+- 📫 Podes contactarme a: carrascoalan53@gmail.com
 
 <br>
 
